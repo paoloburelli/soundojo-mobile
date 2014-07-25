@@ -1,0 +1,28 @@
+# Version: 7.2.5.4 (e7f4f92)
+# [first argument, ignore] # /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/bin/iPhone/AppStore/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/iPhone/AppStore/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-dev \
+	/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/bin/iPhone/AppStore/iPad.app \
+	-r \
+	/Users/paolo/SourceCode/Apps/SounDojoMobile/CoreDojo/bin/Release/CoreDojo.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-linksdkonly \
+	-sdk \
+	7.1 \
+	-targetver \
+	7.0 \
+	--abi=armv7 \
+	/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/bin/iPhone/AppStore/Test.exe \

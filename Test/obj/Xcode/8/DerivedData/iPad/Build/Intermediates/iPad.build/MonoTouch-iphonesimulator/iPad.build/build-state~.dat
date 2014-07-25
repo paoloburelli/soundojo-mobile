@@ -1,0 +1,309 @@
+TiPad
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/AppDelegate-B5B2653E7255C6E5.o /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/MainViewController-F2ADA26ABB6788E0.o /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/SearchViewController-454F8222681E5AD1.o /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/SearchViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/OptionsViewController-7E5209BE6888E7D9.o /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/OptionsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/iPad normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534879FF0000000000000198
+t1397258751
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531F495B00000000000003B4
+t1394559323
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F4960000000000000019E
+t1394559328
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534879D40000000000446820
+t1397258708
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531F4963000000000088D8C0
+t1394559331
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c00000000531F496300000000002E6B60
+t1394559331
+s3042144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531F49650000000001F1DE10
+t1394559333
+s32628240
+
+N/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/AppDelegate.m
+c0000000052A5AF2D0000000000000144
+t1386589997
+s324
+
+N/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/AppDelegate-B5B2653E7255C6E5.o
+t1404246366
+s3008
+
+N/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/MainViewController-F2ADA26ABB6788E0.o
+t1404246366
+s65980
+
+N/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/OptionsViewController-7E5209BE6888E7D9.o
+t1404246366
+s36892
+
+N/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/SearchViewController-454F8222681E5AD1.o
+t1404246366
+s45976
+
+N/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/iPad.LinkFileList
+c0000000053B3195E000000000000032E
+t1404246366
+s814
+
+N/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/iPad
+t2
+s0
+
+N/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/MainViewController.m
+c0000000052AE64DE000000000000041B
+t1387160798
+s1051
+
+N/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/OptionsViewController.m
+c0000000052A5C7FF0000000000000158
+t1386596351
+s344
+
+N/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/SearchViewController.m
+c0000000052AE386200000000000001DB
+t1387149410
+s475
+
+CBuild AST from /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/AppDelegate.m
+r0
+
+CBuild AST from /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/MainViewController.m
+r0
+
+CBuild AST from /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/OptionsViewController.m
+r0
+
+CBuild AST from /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/SearchViewController.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesdaac2ede5063b941^4ca537de5063b941^-646"warning: no rule to process file '/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/AppDelegate.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/MainViewController.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/SearchViewController.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/OptionsViewController.h' of type sourcecode.c.h for architecture i3864(21%IDEActivityLogMessage2@154"Warning: no rule to process file '/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/AppDelegate.h' of type sourcecode.c.h for architecture i386-425939166#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@161"Warning: no rule to process file '/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/MainViewController.h' of type sourcecode.c.h for architecture i386-425939166#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@163"Warning: no rule to process file '/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/SearchViewController.h' of type sourcecode.c.h for architecture i386-425939166#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@164"Warning: no rule to process file '/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/OptionsViewController.h' of type sourcecode.c.h for architecture i386-425939166#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#1#--18"Check dependencies36"ADD1A510-B11F-4168-BBDD-CCEB5A4D56DA-
+
+CCompileC DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/AppDelegate-B5B2653E7255C6E5.o /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425939166.219011
+e425939166.504100
+r1
+xCompileC
+xDerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/AppDelegate-B5B2653E7255C6E5.o
+x/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/AppDelegate.m
+d/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/AppDelegate.m226"CompileC DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/AppDelegate-B5B2653E7255C6E5.o AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler49d738de5063b941^d40c81de5063b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/AppDelegate.m0000000000000000^3863"CompileC DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/AppDelegate-B5B2653E7255C6E5.o AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/iPad-generated-files.hmap -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/iPad-own-target-headers.hmap -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/iPad-all-target-headers.hmap -iquote /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/iPad-project-headers.hmap -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/DerivedSources/i386 -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/DerivedSources -F/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/AppDelegate-B5B2653E7255C6E5.d --serialize-diagnostics /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/AppDelegate-B5B2653E7255C6E5.dia -c /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/AppDelegate.m -o /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/AppDelegate-B5B2653E7255C6E5.o36"BA0697F7-2C00-430B-B85C-7BA65D3F2EA4-
+b6FACF7BE-A7B0-4273-840B-C38EAAAAD217
+
+CCompileC DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/MainViewController-F2ADA26ABB6788E0.o /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425939166.219396
+e425939166.528068
+r1
+xCompileC
+xDerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/MainViewController-F2ADA26ABB6788E0.o
+x/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/MainViewController.m
+d/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/MainViewController.m240"CompileC DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/MainViewController-F2ADA26ABB6788E0.o MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbad838de5063b941^b13187de5063b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/MainViewController.m0000000000000000^3905"CompileC DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/MainViewController-F2ADA26ABB6788E0.o MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/iPad-generated-files.hmap -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/iPad-own-target-headers.hmap -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/iPad-all-target-headers.hmap -iquote /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/iPad-project-headers.hmap -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/DerivedSources/i386 -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/DerivedSources -F/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/MainViewController-F2ADA26ABB6788E0.d --serialize-diagnostics /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/MainViewController-F2ADA26ABB6788E0.dia -c /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/MainViewController.m -o /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/MainViewController-F2ADA26ABB6788E0.o36"093EA465-2BFA-4234-905B-AE38201AB81E-
+b6FACF7BE-A7B0-4273-840B-C38EAAAAD217
+
+CCompileC DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/OptionsViewController-7E5209BE6888E7D9.o /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/OptionsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425939166.219886
+e425939166.504381
+r1
+xCompileC
+xDerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/OptionsViewController-7E5209BE6888E7D9.o
+x/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/OptionsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/OptionsViewController.m
+d/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/OptionsViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/OptionsViewController.m246"CompileC DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/OptionsViewController-7E5209BE6888E7D9.o OptionsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler28d738de5063b941^821f81de5063b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/OptionsViewController.m0000000000000000^3923"CompileC DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/OptionsViewController-7E5209BE6888E7D9.o OptionsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/iPad-generated-files.hmap -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/iPad-own-target-headers.hmap -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/iPad-all-target-headers.hmap -iquote /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/iPad-project-headers.hmap -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/DerivedSources/i386 -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/DerivedSources -F/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/OptionsViewController-7E5209BE6888E7D9.d --serialize-diagnostics /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/OptionsViewController-7E5209BE6888E7D9.dia -c /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/OptionsViewController.m -o /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/OptionsViewController-7E5209BE6888E7D9.o36"0A35216B-27AF-492C-BB23-1F1AFA7E57BE-
+b6FACF7BE-A7B0-4273-840B-C38EAAAAD217
+
+CCompileC DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/SearchViewController-454F8222681E5AD1.o /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/SearchViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425939166.219704
+e425939166.522912
+r1
+xCompileC
+xDerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/SearchViewController-454F8222681E5AD1.o
+x/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/SearchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/SearchViewController.m
+d/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/SearchViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/SearchViewController.m244"CompileC DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/SearchViewController-454F8222681E5AD1.o SearchViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler34d838de5063b941^b9df85de5063b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/SearchViewController.m0000000000000000^3917"CompileC DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/SearchViewController-454F8222681E5AD1.o SearchViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/iPad-generated-files.hmap -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/iPad-own-target-headers.hmap -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/iPad-all-target-headers.hmap -iquote /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/iPad-project-headers.hmap -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/DerivedSources/i386 -I/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/DerivedSources -F/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/SearchViewController-454F8222681E5AD1.d --serialize-diagnostics /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/SearchViewController-454F8222681E5AD1.dia -c /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/SearchViewController.m -o /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/SearchViewController-454F8222681E5AD1.o36"A5B1BA75-E7D7-4604-A2EE-E0A47C7A898F-
+b6FACF7BE-A7B0-4273-840B-C38EAAAAD217
+
+CCompileStoryboard /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/MainStoryboard.storyboard
+r0
+
+CCopyPlistFile /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/Entitlements.plist Entitlements.plist
+r0
+
+CCopyPlistFile /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/Info.plist Info.plist
+r0
+
+CCpResource controls-ban.png DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/controls-ban.png
+r0
+
+CCpResource controls-love.png DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/controls-love.png
+r0
+
+CCpResource controls-next.png DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/controls-next.png
+r0
+
+CCpResource controls-pause.png DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/controls-pause.png
+r0
+
+CCpResource controls-play.png DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/controls-play.png
+r0
+
+CCpResource controls-prev.png DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/controls-prev.png
+r0
+
+CCpResource headphones.png DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/headphones.png
+r0
+
+CCpResource icon-144.png DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/icon-144.png
+r0
+
+CCpResource icon-152.png DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/icon-152.png
+r0
+
+CCpResource icon-72.png DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/icon-72.png
+r0
+
+CCpResource icon-76.png DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/icon-76.png
+r0
+
+CCpResource lastfm.png DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/lastfm.png
+r0
+
+CCpResource logo-bg.png DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/logo-bg.png
+r0
+
+CCpResource radio.png DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/radio.png
+r0
+
+CCpResource search-128.png DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/search-128.png
+r0
+
+CGenerateDSYMFile /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app.dSYM /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/iPad
+r0
+
+CLd /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/iPad normal i386
+s425939166.528865
+e425939166.606920
+r0
+xLd
+x/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/iPad
+xnormal
+xi386
+d/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/iPad.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/AppDelegate-B5B2653E7255C6E5.o
+d/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/MainViewController-F2ADA26ABB6788E0.o
+d/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/SearchViewController-454F8222681E5AD1.o
+d/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/OptionsViewController-7E5209BE6888E7D9.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+oUndefined symbols for architecture i386:
+o  "_main", referenced from:
+o      start in crt1.o
+old: symbol(s) not found for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Link /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/iPad86"Ld DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/iPad normal i386697487de5063b941^a65e9bde5063b941^-217"Undefined symbols for architecture i386:  "_main", referenced from:      start in crt1.old: symbol(s) not found for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)4(21%IDEActivityLogMessage2@25""_main", referenced from:-425939166#41#28#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@15"Start in crt1.o-425939166#69#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41"Symbol(s) not found for architecture i386-425939166#91#46#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-425939166#137#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1672"Ld DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/iPad normal i386    cd /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator -F/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator -filelist /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/iPad.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework UIKit -framework MapKit -framework Foundation -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Intermediates/iPad.build/MonoTouch-iphonesimulator/iPad.build/Objects-normal/i386/iPad_dependency_info.dat -o /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app/iPad36"A49AD4C9-D57C-403D-8849-B068332D011F-
+b6FACF7BE-A7B0-4273-840B-C38EAAAAD217
+
+CTouch /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/obj/Xcode/8/DerivedData/iPad/Build/Products/MonoTouch-iphonesimulator/iPad.app
+r0
+

@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPad.7.1" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="CoreDojo/Lastfm.cs" Line="1" Column="1" />
+      <File FileName="Test/MainViewController.cs" Line="1" Column="1" />
+      <File FileName="Test/Main.cs" Line="1" Column="1" />
+      <File FileName="Test/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Test/SearchViewController.cs" Line="1" Column="1" />
+      <File FileName="CoreDojo/SearchResultSource.cs" Line="1" Column="1" />
+      <File FileName="CoreDojo/SearchCell.cs" Line="1" Column="1" />
+      <File FileName="Test/PlayerControls.cs" Line="1" Column="1" />
+      <File FileName="Test/Info.plist" />
+      <File FileName="Test/Resources/Images.xcassets/AppIcons-1.appiconset/Contents.json" />
+      <File FileName="Test/MainViewController.designer.cs" Line="78" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.iPhone>
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="622JMT8NJK" TeamId="8WT3WR4698" />
+  </MonoDevelop.Ide.ItemProperties.iPhone>
+  <MonoDevelop.Ide.ItemProperties.iPad>
+    <IPhoneZipBundleSettings CurrentFolder="/Users/paolo/SourceCode/Apps/SounDojoMobile/Test/bin/iPhone/AppStore" />
+  </MonoDevelop.Ide.ItemProperties.iPad>
+</Properties>

@@ -1,0 +1,310 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1482DC730000000000000000 /* icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 1813E9110000000000000000 /* icon-76.png */; };
+		157E60A50000000000000000 /* OptionsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 190F6D430000000000000000 /* OptionsViewController.m */; };
+		15E426DD0000000000000000 /* SearchViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 1975337B0000000000000000 /* SearchViewController.h */; };
+		171579850000000000000000 /* controls-ban.png in Resources */ = {isa = PBXBuildFile; fileRef = 1AA686230000000000000000 /* controls-ban.png */; };
+		1AD9693F0000000000000000 /* controls-prev.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E6A75DD0000000000000000 /* controls-prev.png */; };
+		1B7212930000000000000000 /* icon-144.png in Resources */ = {isa = PBXBuildFile; fileRef = 1F031F310000000000000000 /* icon-144.png */; };
+		1BD7D8CB0000000000000000 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1F68E5690000000000000000 /* Entitlements.plist */; };
+		1CF58A290000000000000000 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 208696C70000000000000000 /* CoreGraphics.framework */; };
+		1E9D58F90000000000000000 /* search-128.png in Resources */ = {isa = PBXBuildFile; fileRef = 222E65970000000000000000 /* search-128.png */; };
+		2064699B0000000000000000 /* SearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23F576390000000000000000 /* SearchViewController.m */; };
+		25F255510000000000000000 /* controls-pause.png in Resources */ = {isa = PBXBuildFile; fileRef = 298361EF0000000000000000 /* controls-pause.png */; };
+		282003200000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6130CD000000000000000000 /* Foundation.framework */; };
+		28EAB89B0000000000000000 /* lastfm.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C7BC5390000000000000000 /* lastfm.png */; };
+		2D4E979A0000000000000000 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 30DFA4380000000000000000 /* MapKit.framework */; };
+		3072980F0000000000000000 /* controls-play.png in Resources */ = {isa = PBXBuildFile; fileRef = 3403A4AD0000000000000000 /* controls-play.png */; };
+		315620600000000000000000 /* radio.png in Resources */ = {isa = PBXBuildFile; fileRef = 34E72CFE0000000000000000 /* radio.png */; };
+		336AFB590000000000000000 /* headphones.png in Resources */ = {isa = PBXBuildFile; fileRef = 36FC07F70000000000000000 /* headphones.png */; };
+		35FD986B0000000000000000 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 398EA5090000000000000000 /* MainViewController.m */; };
+		37C794670000000000000000 /* controls-next.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B58A1050000000000000000 /* controls-next.png */; };
+		382D5A9F0000000000000000 /* icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BBE673D0000000000000000 /* icon-72.png */; };
+		3F01A9840000000000000000 /* MainViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 292B62200000000000000000 /* MainViewController.h */; };
+		474ADFF00000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 805BA9D00000000000000000 /* AppDelegate.m */; };
+		4AF80D000000000000000000 /* OptionsViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 3DC04AB00000000000000000 /* OptionsViewController.h */; };
+		528561EA196359FD000A898C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 528561E9196359FD000A898C /* Images.xcassets */; };
+		5403A6F00000000000000000 /* controls-love.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D1470D00000000000000000 /* controls-love.png */; };
+		6A4703300000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A357CD100000000000000000 /* Info.plist */; };
+		99CD37D00000000000000000 /* icon-152.png in Resources */ = {isa = PBXBuildFile; fileRef = D2DE01B00000000000000000 /* icon-152.png */; };
+		A0299B500000000000000000 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D93A65300000000000000000 /* MainStoryboard.storyboard */; };
+		BB8F46700000000000000000 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4A010500000000000000000 /* UIKit.framework */; };
+		CC819E300000000000000000 /* logo-bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 105926810000000000000000 /* logo-bg.png */; };
+		F5AB6F500000000000000000 /* AppDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = 12EBC3930000000000000000 /* AppDelegate.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		105926810000000000000000 /* logo-bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo-bg.png"; sourceTree = "<group>"; };
+		12EBC3930000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		1813E9110000000000000000 /* icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-76.png"; sourceTree = "<group>"; };
+		190F6D430000000000000000 /* OptionsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OptionsViewController.m; sourceTree = "<group>"; };
+		1975337B0000000000000000 /* SearchViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SearchViewController.h; sourceTree = "<group>"; };
+		1AA686230000000000000000 /* controls-ban.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "controls-ban.png"; sourceTree = "<group>"; };
+		1E6A75DD0000000000000000 /* controls-prev.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "controls-prev.png"; sourceTree = "<group>"; };
+		1F031F310000000000000000 /* icon-144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-144.png"; sourceTree = "<group>"; };
+		1F68E5690000000000000000 /* Entitlements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
+		208696C70000000000000000 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		222E65970000000000000000 /* search-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "search-128.png"; sourceTree = "<group>"; };
+		23F576390000000000000000 /* SearchViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SearchViewController.m; sourceTree = "<group>"; };
+		292B62200000000000000000 /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		298361EF0000000000000000 /* controls-pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "controls-pause.png"; sourceTree = "<group>"; };
+		2C7BC5390000000000000000 /* lastfm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lastfm.png; sourceTree = "<group>"; };
+		30DFA4380000000000000000 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		3403A4AD0000000000000000 /* controls-play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "controls-play.png"; sourceTree = "<group>"; };
+		34E72CFE0000000000000000 /* radio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = radio.png; sourceTree = "<group>"; };
+		36FC07F70000000000000000 /* headphones.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = headphones.png; sourceTree = "<group>"; };
+		398EA5090000000000000000 /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		39FE9C8C0000000000000000 /* iPad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iPad.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B58A1050000000000000000 /* controls-next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "controls-next.png"; sourceTree = "<group>"; };
+		3BBE673D0000000000000000 /* icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-72.png"; sourceTree = "<group>"; };
+		3DC04AB00000000000000000 /* OptionsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OptionsViewController.h; sourceTree = "<group>"; };
+		528561E9196359FD000A898C /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = iPad/Images.xcassets; sourceTree = "<group>"; };
+		6130CD000000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		805BA9D00000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		8D1470D00000000000000000 /* controls-love.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "controls-love.png"; sourceTree = "<group>"; };
+		A357CD100000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D2DE01B00000000000000000 /* icon-152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-152.png"; sourceTree = "<group>"; };
+		D93A65300000000000000000 /* MainStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = MainStoryboard.storyboard; sourceTree = "<group>"; };
+		F4A010500000000000000000 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		316051AB0000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BB8F46700000000000000000 /* UIKit.framework in Frameworks */,
+				2D4E979A0000000000000000 /* MapKit.framework in Frameworks */,
+				282003200000000000000000 /* Foundation.framework in Frameworks */,
+				1CF58A290000000000000000 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1179C3390000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				3C1377850000000000000000 /* iPad */,
+				1FBDF5B10000000000000000 /* Frameworks */,
+				6C69D5F00000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1FBDF5B10000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F4A010500000000000000000 /* UIKit.framework */,
+				30DFA4380000000000000000 /* MapKit.framework */,
+				6130CD000000000000000000 /* Foundation.framework */,
+				208696C70000000000000000 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3C1377850000000000000000 /* iPad */ = {
+			isa = PBXGroup;
+			children = (
+				12EBC3930000000000000000 /* AppDelegate.h */,
+				1AA686230000000000000000 /* controls-ban.png */,
+				8D1470D00000000000000000 /* controls-love.png */,
+				3B58A1050000000000000000 /* controls-next.png */,
+				298361EF0000000000000000 /* controls-pause.png */,
+				3403A4AD0000000000000000 /* controls-play.png */,
+				1E6A75DD0000000000000000 /* controls-prev.png */,
+				1F68E5690000000000000000 /* Entitlements.plist */,
+				36FC07F70000000000000000 /* headphones.png */,
+				1F031F310000000000000000 /* icon-144.png */,
+				D2DE01B00000000000000000 /* icon-152.png */,
+				3BBE673D0000000000000000 /* icon-72.png */,
+				1813E9110000000000000000 /* icon-76.png */,
+				A357CD100000000000000000 /* Info.plist */,
+				2C7BC5390000000000000000 /* lastfm.png */,
+				105926810000000000000000 /* logo-bg.png */,
+				D93A65300000000000000000 /* MainStoryboard.storyboard */,
+				292B62200000000000000000 /* MainViewController.h */,
+				3DC04AB00000000000000000 /* OptionsViewController.h */,
+				34E72CFE0000000000000000 /* radio.png */,
+				222E65970000000000000000 /* search-128.png */,
+				1975337B0000000000000000 /* SearchViewController.h */,
+				528561E9196359FD000A898C /* Images.xcassets */,
+				656A5DC00000000000000000 /* Supporting Files */,
+			);
+			name = iPad;
+			sourceTree = "<group>";
+		};
+		656A5DC00000000000000000 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				805BA9D00000000000000000 /* AppDelegate.m */,
+				398EA5090000000000000000 /* MainViewController.m */,
+				190F6D430000000000000000 /* OptionsViewController.m */,
+				23F576390000000000000000 /* SearchViewController.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6C69D5F00000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				39FE9C8C0000000000000000 /* iPad.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2EB2CD5E0000000000000000 /* iPad */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2F4B76B20000000000000000 /* Build configuration list for PBXNativeTarget "iPad" */;
+			buildPhases = (
+				1BFA05F70000000000000000 /* Sources */,
+				316051AB0000000000000000 /* Frameworks */,
+				4E4A58200000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iPad;
+			productName = iPad;
+			productReference = 39FE9C8C0000000000000000 /* iPad.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		23FFA7840000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+			};
+			buildConfigurationList = 2107443A0000000000000000 /* Build configuration list for PBXProject "iPad" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 1179C3390000000000000000;
+			productRefGroup = 6C69D5F00000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2EB2CD5E0000000000000000 /* iPad */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4E4A58200000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6A4703300000000000000000 /* Info.plist in Resources */,
+				1BD7D8CB0000000000000000 /* Entitlements.plist in Resources */,
+				A0299B500000000000000000 /* MainStoryboard.storyboard in Resources */,
+				382D5A9F0000000000000000 /* icon-72.png in Resources */,
+				1482DC730000000000000000 /* icon-76.png in Resources */,
+				1B7212930000000000000000 /* icon-144.png in Resources */,
+				99CD37D00000000000000000 /* icon-152.png in Resources */,
+				37C794670000000000000000 /* controls-next.png in Resources */,
+				25F255510000000000000000 /* controls-pause.png in Resources */,
+				3072980F0000000000000000 /* controls-play.png in Resources */,
+				1E9D58F90000000000000000 /* search-128.png in Resources */,
+				CC819E300000000000000000 /* logo-bg.png in Resources */,
+				1AD9693F0000000000000000 /* controls-prev.png in Resources */,
+				28EAB89B0000000000000000 /* lastfm.png in Resources */,
+				171579850000000000000000 /* controls-ban.png in Resources */,
+				528561EA196359FD000A898C /* Images.xcassets in Resources */,
+				5403A6F00000000000000000 /* controls-love.png in Resources */,
+				336AFB590000000000000000 /* headphones.png in Resources */,
+				315620600000000000000000 /* radio.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1BFA05F70000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F5AB6F500000000000000000 /* AppDelegate.h in Sources */,
+				474ADFF00000000000000000 /* AppDelegate.m in Sources */,
+				3F01A9840000000000000000 /* MainViewController.h in Sources */,
+				35FD986B0000000000000000 /* MainViewController.m in Sources */,
+				15E426DD0000000000000000 /* SearchViewController.h in Sources */,
+				2064699B0000000000000000 /* SearchViewController.m in Sources */,
+				4AF80D000000000000000000 /* OptionsViewController.h in Sources */,
+				157E60A50000000000000000 /* OptionsViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		16541E600000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				PRODUCT_NAME = iPad;
+				TARGETED_DEVICE_FAMILY = 2;
+				WRAPPER_EXTENSION = app;
+			};
+			name = MonoTouch;
+		};
+		228375DF0000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				SDKROOT = iphoneos;
+			};
+			name = MonoTouch;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2107443A0000000000000000 /* Build configuration list for PBXProject "iPad" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				228375DF0000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+		2F4B76B20000000000000000 /* Build configuration list for PBXNativeTarget "iPad" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				16541E600000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 23FFA7840000000000000000 /* Project object */;
+}

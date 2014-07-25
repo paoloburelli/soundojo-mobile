@@ -1,0 +1,7 @@
+/Users/paolo/SourceCode/Apps/SounDojoMobile/iPhone/obj/iPhone/Debug/mtouch-cache/Link/System.Core.dll
+/Users/paolo/SourceCode/Apps/SounDojoMobile/iPhone/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/paolo/SourceCode/Apps/SounDojoMobile/iPhone/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/paolo/SourceCode/Apps/SounDojoMobile/iPhone/obj/iPhone/Debug/mtouch-cache/Link/System.Json.dll
+/Users/paolo/SourceCode/Apps/SounDojoMobile/iPhone/obj/iPhone/Debug/mtouch-cache/Link/CoreDojo.dll
+/Users/paolo/SourceCode/Apps/SounDojoMobile/iPhone/obj/iPhone/Debug/mtouch-cache/Link/iPhone.exe
+/Users/paolo/SourceCode/Apps/SounDojoMobile/iPhone/obj/iPhone/Debug/mtouch-cache/Link/System.dll

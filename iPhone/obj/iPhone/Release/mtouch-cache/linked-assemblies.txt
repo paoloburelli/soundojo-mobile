@@ -1,0 +1,7 @@
+/Users/paolo/Desktop/SounDojo/iPhone/obj/iPhone/Release/mtouch-cache/Link/System.dll
+/Users/paolo/Desktop/SounDojo/iPhone/obj/iPhone/Release/mtouch-cache/Link/monotouch.dll
+/Users/paolo/Desktop/SounDojo/iPhone/obj/iPhone/Release/mtouch-cache/Link/iPhone.exe
+/Users/paolo/Desktop/SounDojo/iPhone/obj/iPhone/Release/mtouch-cache/Link/System.Json.dll
+/Users/paolo/Desktop/SounDojo/iPhone/obj/iPhone/Release/mtouch-cache/Link/System.Core.dll
+/Users/paolo/Desktop/SounDojo/iPhone/obj/iPhone/Release/mtouch-cache/Link/CoreDojo.dll
+/Users/paolo/Desktop/SounDojo/iPhone/obj/iPhone/Release/mtouch-cache/Link/mscorlib.dll
