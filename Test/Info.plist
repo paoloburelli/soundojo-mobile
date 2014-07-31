@@ -29,10 +29,6 @@
 	</array>
 	<key>CFBundleDisplayName</key>
 	<string>SounDojo</string>
-	<key>UIBackgroundModes</key>
-	<array>
-		<string>audio</string>
-	</array>
 	<key>XSAppIconAssets</key>
 	<string>Resources/Images.xcassets/AppIcons-1.appiconset</string>
 </dict>

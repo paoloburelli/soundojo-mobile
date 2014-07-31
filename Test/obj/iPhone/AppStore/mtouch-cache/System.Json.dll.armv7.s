@@ -17,7 +17,7 @@ Ldebug_info_begin:
 	.short 2
 	.long 0
 	.byte 4,1
-	.asciz "Mono AOT Compiler 3.4.0 (monotouch-7.2.4-branch/959fd8c Wed Jun 18 02:28:09 EDT 2014)"
+	.asciz "Mono AOT Compiler 3.4.0 (monotouch-7.2.4-branch/959fd8c Wed Jul  2 19:27:33 EDT 2014)"
 	.asciz "System.Json.dll"
 	.asciz ""
 
@@ -4641,21 +4641,21 @@ image_table:
 
 	.long 3
 	.asciz "System.Json"
-	.asciz "611031DF-D399-4773-8CA7-35EDD5D74148"
+	.asciz "60F73443-BA37-4710-A8CC-97C92D2F31DC"
 	.asciz ""
 	.asciz "31bf3856ad364e35"
 	.align 3
 
 	.long 1,2,0,5,0
 	.asciz "mscorlib"
-	.asciz "5B278E7E-01EE-4D81-8C2A-0BEBED880BED"
+	.asciz "D682AB0B-3FD6-42A4-A7BE-C03BC5443B3F"
 	.asciz ""
 	.asciz "7cec85d7bea7798e"
 	.align 3
 
 	.long 1,2,0,5,0
 	.asciz "System"
-	.asciz "3D023410-7C94-4E66-97C1-E8F9F02C5989"
+	.asciz "D2C16AE0-1730-443C-9674-F4CB3B0BC31F"
 	.asciz ""
 	.asciz "7cec85d7bea7798e"
 	.align 3
@@ -4669,7 +4669,7 @@ got_end:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "611031DF-D399-4773-8CA7-35EDD5D74148"
+	.asciz "60F73443-BA37-4710-A8CC-97C92D2F31DC"
 .section __TEXT, __const
 	.align 2
 runtime_version:

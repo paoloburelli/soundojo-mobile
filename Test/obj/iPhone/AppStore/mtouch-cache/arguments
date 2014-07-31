@@ -1,4 +1,4 @@
-# Version: 7.2.5.4 (e7f4f92)
+# Version: 7.2.5.5 (87026b6)
 # [first argument, ignore] # /Users/paolo/SourceCode/Apps/SounDojoMobile/Test/bin/iPhone/AppStore/mtouch.exe
 /Developer/MonoTouch/usr/bin/mtouch \
 	-sdkroot \

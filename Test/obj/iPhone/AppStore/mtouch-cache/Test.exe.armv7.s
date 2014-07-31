@@ -17,7 +17,7 @@ Ldebug_info_begin:
 	.short 2
 	.long 0
 	.byte 4,1
-	.asciz "Mono AOT Compiler 3.4.0 (monotouch-7.2.4-branch/959fd8c Wed Jun 18 02:28:09 EDT 2014)"
+	.asciz "Mono AOT Compiler 3.4.0 (monotouch-7.2.4-branch/959fd8c Wed Jul  2 19:27:33 EDT 2014)"
 	.asciz "Test.exe"
 	.asciz ""
 
@@ -3224,35 +3224,35 @@ image_table:
 
 	.long 5
 	.asciz "mscorlib"
-	.asciz "5B278E7E-01EE-4D81-8C2A-0BEBED880BED"
+	.asciz "D682AB0B-3FD6-42A4-A7BE-C03BC5443B3F"
 	.asciz ""
 	.asciz "7cec85d7bea7798e"
 	.align 3
 
 	.long 1,2,0,5,0
 	.asciz "CoreDojo"
-	.asciz "A67CEEBA-09A0-4AEE-8EC7-73A1E8671F38"
+	.asciz "E54B9402-AACB-48A5-AF13-5D74D67DE72A"
 	.asciz ""
 	.asciz ""
 	.align 3
 
 	.long 0,0,0,0,0
 	.asciz "Test"
-	.asciz "AEFA1E44-B950-4581-9293-AF2C2E929A97"
+	.asciz "BCBEB57C-798C-45BC-87F7-58108F6B45F0"
 	.asciz ""
 	.asciz ""
 	.align 3
 
 	.long 0,0,0,0,0
 	.asciz "monotouch"
-	.asciz "DBDC3E9E-EC9C-4636-9E19-1CF60DA94502"
+	.asciz "98CF73E4-9EA8-4ED0-8E65-1ED58F589748"
 	.asciz ""
 	.asciz "84e04ff9cfb79065"
 	.align 3
 
 	.long 1,0,0,0,0
 	.asciz "System"
-	.asciz "3D023410-7C94-4E66-97C1-E8F9F02C5989"
+	.asciz "D2C16AE0-1730-443C-9674-F4CB3B0BC31F"
 	.asciz ""
 	.asciz "7cec85d7bea7798e"
 	.align 3
@@ -3266,7 +3266,7 @@ got_end:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "AEFA1E44-B950-4581-9293-AF2C2E929A97"
+	.asciz "BCBEB57C-798C-45BC-87F7-58108F6B45F0"
 .section __TEXT, __const
 	.align 2
 runtime_version:

@@ -17,7 +17,7 @@ Ldebug_info_begin:
 	.short 2
 	.long 0
 	.byte 4,1
-	.asciz "Mono AOT Compiler 3.4.0 (monotouch-7.2.4-branch/959fd8c Wed Jun 18 02:28:09 EDT 2014)"
+	.asciz "Mono AOT Compiler 3.4.0 (monotouch-7.2.4-branch/959fd8c Wed Jul  2 19:27:33 EDT 2014)"
 	.asciz "System.Core.dll"
 	.asciz ""
 
@@ -438,14 +438,14 @@ image_table:
 
 	.long 2
 	.asciz "System.Core"
-	.asciz "45367F00-7338-44BF-A067-7790F2BA5713"
+	.asciz "C30626B1-39B8-4A35-B449-357FD6732FB4"
 	.asciz ""
 	.asciz "7cec85d7bea7798e"
 	.align 3
 
 	.long 1,2,0,5,0
 	.asciz "mscorlib"
-	.asciz "5B278E7E-01EE-4D81-8C2A-0BEBED880BED"
+	.asciz "D682AB0B-3FD6-42A4-A7BE-C03BC5443B3F"
 	.asciz ""
 	.asciz "7cec85d7bea7798e"
 	.align 3
@@ -459,7 +459,7 @@ got_end:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "45367F00-7338-44BF-A067-7790F2BA5713"
+	.asciz "C30626B1-39B8-4A35-B449-357FD6732FB4"
 .section __TEXT, __const
 	.align 2
 runtime_version:
